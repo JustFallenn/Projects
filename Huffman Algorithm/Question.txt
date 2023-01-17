@@ -1,0 +1,2 @@
+This two key are a example of a sentence called as "pangram" which is a sentence that covers all the letters of a language at least once.
+This two key covers all the English letters at least once, so we can say that the keys are English pangrams.
